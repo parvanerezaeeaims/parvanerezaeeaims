@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Parvaneh Rezaei
 
-<!--
-**parvanerezaeeaims/parvanerezaeeaims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Engineering**  
+💻 **Data Scientist**  
 
-Here are some ideas to get you started:
+### 🔍 Fields of Interest:
+- Data Science
+- Recommender Systems
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 **Superfan of Python!**  
+📈 Passionate about building intelligent systems and extracting insights from data.  
+
+---
+
+### 🌟 Connect with me:
+- LinkedIn: [http://linkedin.com/in/parvane-rezaee](#)
+
+
+### 🚀 Skills:
+- **Languages:** Python, SQL  
+- **Libraries/Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, OpenCV  
+- **Tools:** Docker, Kubernetes, MLflow, Airflow  
+
+---
+
+### 🖼️ My Projects:
+- 🌐 **[ Surveillance system](#):** Implemented image and video processing techniques for people counting and tracking in a project focused on
+Detection and Re-Identification in Multi-Object Tracking
+.  
+- 🏥 **[Lung CT Scan Analysis](#):** A segmentation project focused on infection analysis using CT images.  
+- 🛒 **[Recommender System](#):** A personalized recommendation tool for supermarket products.  
+
+---
+
+✨ **"Turning ideas into impactful solutions!"**
+
