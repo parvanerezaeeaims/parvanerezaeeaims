@@ -20,7 +20,7 @@
 ### 🚀 Skills:
 - **Languages:** Python, SQL  
 - **Libraries/Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, OpenCV  
-- **Tools:** Docker, Kubernetes, MLflow, Airflow  
+- **Tools:** Docker, git
 
 ---
 
