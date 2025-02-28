@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parvaneh Rezaei
 
-🎓 **Bachelor of Computer Engineering**  
+🎓 **Master of Computer Engineering**  
 💻 **Data Scientist**  
 
 ### 🔍 Fields of Interest:
